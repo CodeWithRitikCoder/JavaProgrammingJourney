@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JAVAHome:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVAHome_jar</output-path>
+    <root id="archive" name="JAVAHome.jar">
+      <element id="module-output" name="JAVAHome" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: _8_AWT_GUI_ProgramsWithRitikCoder.GUI_CalculatorWindowUsingA
+ WT_API
+
